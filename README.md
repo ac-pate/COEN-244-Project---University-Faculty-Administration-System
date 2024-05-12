@@ -6,7 +6,7 @@ This project implements a university faculty management system using various obj
 ### Project Structure
 - `dataManager.h`: Header file containing the `dataManager` class declaration.
 - `dataManager.cpp`: Implementation file for the `dataManager` class.
-- `main.cpp`: Main program file demonstrating the usage of the implemented classes.
+- `driver.cpp`: Main executable driver file creating all the objects of the Inherited classes.
 - `PartTimeProfessor.h`, `FullTimeProfessor.h`, `GraduateStudent.h`, `UndergraduateStudent.h`: Header files for specific classes representing different roles within the university.
 - `CourseRegistration.h`, `Course.h`, `Grade.h`: Header files for classes related to courses, course registration, and grades.
 - `Person.h`, `Date.h`: Header files for base classes representing individuals and dates.
@@ -34,3 +34,5 @@ This project implements a university faculty management system using various obj
 ### Note
 - Ensure proper memory management by deleting dynamically allocated objects using `delete` operator.
 
+### Contributors
+- Achal Patel 
