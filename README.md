@@ -28,7 +28,7 @@ This project implements a university faculty management system using various obj
 - **Assignment 5**: Demonstrated advanced input/output operations by reading data from a text file and writing formatted data to another output text file.
 
 ### Usage
-- Compile the project files and execute `main.cpp` to run the program.
+- Compile the project files and execute `driver.cpp` to run the program.
 - The program demonstrates various functionalities such as student registration, course management, grading, and file I/O operations.
 
 ### Note
