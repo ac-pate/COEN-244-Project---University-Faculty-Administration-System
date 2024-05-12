@@ -1,0 +1,4 @@
+ugstudent John 3 15 2001 1000 5 20 2011
+ugstudent Jane 5 20 2011 1001 3 15 2001
+gstudent Graduate01 3 15 2001 1002 5 20 2011 Prof1
+gstudent Graduate02 5 20 2011 1003 3 15 2001 Prof1
