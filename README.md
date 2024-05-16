@@ -1,4 +1,4 @@
-# COEN 244 Project - University Faculty Administration System
+#  University Faculty Administration System - an OOP Project
 
 ## Overview
 This project implements a university faculty management system using various object-oriented programming (OOP) concepts in C++.
